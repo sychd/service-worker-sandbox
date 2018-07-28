@@ -1,0 +1,13 @@
+{
+    "undef": true,
+    "unused": true,
+    "esversion": 6,
+    "globals": {
+        "require": true,
+        "process": true,
+        "__dirname": true,
+        "module": true,
+        "console": true,
+        "fetch": true
+    }
+  }
