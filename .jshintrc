@@ -8,6 +8,7 @@
         "__dirname": true,
         "module": true,
         "console": true,
-        "fetch": true
+        "fetch": true,
+        "document": true
     }
   }

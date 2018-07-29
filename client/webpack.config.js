@@ -9,6 +9,8 @@ module.exports = {
     filename: 'client.bundle.js'
   },
   plugins: [
-    new HtmlWebpackPlugin()
+    new HtmlWebpackPlugin({
+      template: './client/index.html'
+    })
   ]
 };
